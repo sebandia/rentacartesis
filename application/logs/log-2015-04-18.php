@@ -1,0 +1,44 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2015-04-18 06:44:28 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/codeigniter/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2015-04-18 06:44:28 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/codeigniter/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2015-04-18 06:44:30 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/codeigniter/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2015-04-18 06:44:30 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/codeigniter/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2015-04-18 06:44:33 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/codeigniter/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2015-04-18 06:44:34 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/codeigniter/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2015-04-18 06:44:35 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/codeigniter/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2015-04-18 06:44:36 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/codeigniter/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2015-04-18 06:45:51 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/codeigniter/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2015-04-18 06:46:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/codeigniter/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2015-04-18 06:46:04 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/codeigniter/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2015-04-18 06:46:05 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/codeigniter/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2015-04-18 06:46:36 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/codeigniter/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2015-04-18 06:46:39 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/codeigniter/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2015-04-18 06:46:39 --> 404 Page Not Found --> main/agregar2
+ERROR - 2015-04-18 06:58:49 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/codeigniter/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2015-04-18 07:17:46 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/codeigniter/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2015-04-18 07:52:10 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/codeigniter/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2015-04-18 07:52:15 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/codeigniter/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2015-04-18 07:52:52 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/codeigniter/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2015-04-18 07:54:24 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/codeigniter/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2015-04-18 07:54:28 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/codeigniter/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2015-04-18 07:54:29 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/codeigniter/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2015-04-18 07:55:05 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/codeigniter/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2015-04-18 07:55:16 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/codeigniter/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2015-04-18 08:05:33 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/codeigniter/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2015-04-18 08:05:33 --> Severity: Notice  --> Undefined variable: link /Applications/MAMP/htdocs/codeigniter/application/views/headers/menu.php 26
+ERROR - 2015-04-18 08:05:33 --> Severity: Notice  --> Undefined variable: page /Applications/MAMP/htdocs/codeigniter/application/views/headers/menu.php 27
+ERROR - 2015-04-18 08:05:33 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/codeigniter/application/views/headers/menu.php 27
+ERROR - 2015-04-18 08:05:33 --> Severity: Notice  --> Undefined variable: link /Applications/MAMP/htdocs/codeigniter/application/views/headers/menu.php 29
+ERROR - 2015-04-18 08:05:33 --> Severity: Notice  --> Undefined variable: page /Applications/MAMP/htdocs/codeigniter/application/views/headers/menu.php 30
+ERROR - 2015-04-18 08:05:33 --> Severity: Notice  --> Trying to get property of non-object /Applications/MAMP/htdocs/codeigniter/application/views/headers/menu.php 30
+ERROR - 2015-04-18 08:05:33 --> Severity: Notice  --> ob_end_clean(): failed to delete buffer. No buffer to delete /Applications/MAMP/htdocs/codeigniter/system/core/Loader.php 863
+ERROR - 2015-04-18 08:06:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/codeigniter/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2015-04-18 08:07:39 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/codeigniter/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2015-04-18 08:07:42 --> 404 Page Not Found --> menu1
+ERROR - 2015-04-18 08:10:28 --> 404 Page Not Found --> menu1
+ERROR - 2015-04-18 08:14:15 --> 404 Page Not Found --> %3C
+ERROR - 2015-04-18 08:14:45 --> 404 Page Not Found --> %3C
+ERROR - 2015-04-18 08:16:00 --> 404 Page Not Found --> %3C
+ERROR - 2015-04-18 08:17:32 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/codeigniter/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2015-04-18 08:17:34 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/codeigniter/system/database/drivers/mysql/mysql_driver.php 91
